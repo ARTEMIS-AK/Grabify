@@ -1,5 +1,5 @@
 # Grabify
-# I participated in a group project for an academic assignment, where I contributed by developing the backend and database for the application.
+## I participated in a group project for an academic assignment, where I contributed by developing the backend and database for the application.
 
 Aim : Is to connect all the shops in an area through an application to the Digital market <br>
 
